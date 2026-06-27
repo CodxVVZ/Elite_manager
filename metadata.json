@@ -1,0 +1,6 @@
+{
+  "name": "Futebol Database Studio",
+  "description": "Banco de dados interativo, editor e gerador procedural assistido por IA para jogos de futebol e simulação de carreira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

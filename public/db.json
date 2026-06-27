@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "name": "Banco Limpo",
+    "version": "1.0",
+    "author": "Elite Manager",
+    "season": 2026,
+    "country": "Mundo",
+    "description": "Banco de dados sem times",
+    "createdAt": "2026-06-27T02:35:00.000Z"
+  },
+  "competitions": [],
+  "teams": [],
+  "players": []
+}
